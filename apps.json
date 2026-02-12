@@ -3,7 +3,7 @@
   "identifier": "com.vanmentcal.breadpos.source",
   "apps": [
     {
-      "name": "麵包 POS",
+      "name": "麵包家族 POS",
       "bundleIdentifier": "com.yenwen.breadpos.four",
       "developerName": "彥文",
       "version": "4.0",
