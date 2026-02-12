@@ -4,11 +4,11 @@
   "apps": [
     {
       "name": "麵包 POS",
-      "bundleIdentifier": "com.yenwen.breadpos.three",
+      "bundleIdentifier": "com.yenwen.breadpos.four",
       "developerName": "彥文",
-      "version": "3.0",
+      "version": "4.0",
       "versionDate": "2026-02-10",
-      "downloadURL": "https://github.com/Vanmentcal/BreadPOS-AltStore/releases/download/v3.0/POS.ipa",
+      "downloadURL": "https://github.com/Vanmentcal/BreadPOS-AltStore/releases/download/v4.0/POS.ipa",
       "localizedDescription": "專為麵包家族設計的 iPad POS 系統。",
       "iconURL": "https://github.com/Vanmentcal/BreadPOS-AltStore/blob/main/Gemini_Generated_Image_9hpxlj9hpxlj9hpx.png?raw=true",
       "size": 1024000
