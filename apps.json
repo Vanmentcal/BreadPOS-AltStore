@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "麵包家族 POS",
-      "bundleIdentifier": "com.yenwen.breadpos.four",
+      "bundleIdentifier": "com.yenwen.breadpos.five",
       "developerName": "彥文",
       "version": "5.0.0",
       "versionDate": "2026-04-23",
